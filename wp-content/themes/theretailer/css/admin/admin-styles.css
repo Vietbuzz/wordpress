@@ -1,0 +1,23 @@
+/*rev slider*/
+.rs-update-notice-wrap
+{
+	display:none !important;
+}
+
+/*wpbakery*/
+.vc_license-activation-notice {
+  display: none !important;
+}
+
+.hide_in_vc_editor {
+	display:none;
+}
+
+.vc_editor #wpcontent {
+	padding-left: 0px !important;
+}
+
+/* kirki */
+.notice.notice-info.kirki-telemetry {
+	display: none;
+}
